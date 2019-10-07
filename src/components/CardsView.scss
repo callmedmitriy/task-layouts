@@ -1,0 +1,9 @@
+.card-view {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+	max-width: 640px;
+	margin: 0 auto;
+}
